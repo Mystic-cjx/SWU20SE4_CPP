@@ -25,5 +25,5 @@ int main(){
 	cin>>x>>y>>z;
 	Time a(x,y,z);
 	a.show();
-	
+	return 0;
 }
